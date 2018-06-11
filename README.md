@@ -4,7 +4,7 @@ This unit covers installing Android Studio, understanding project structure, bui
 
 First, you deploy a simple Hello World app. You go on to create an app with a simple activity, and then you create a multi-screen app that passes data between activities. You also learn how to use the Android Support Library to provide backward-compatibility with earlier versions of the Android system for your app.
 
------------ Unit 2: User experience ----------- 
+----------- Unit 2: User experience -----------
 This unit covers how to get input from the user, implement navigation strategies, use themes and styles, test your user interface, and follow Material Design principles.
 
 You create apps that use menus and tabs for navigation, and input controls such as spinners and picker dialogs to get information from the user. You learn how to extract resources to create a style from an instance of a user interface element. You write an app that displays a word list in a recycler view (and you learn why it's better to use a recycler view than a plain scrolling list).
