@@ -1,4 +1,8 @@
 # Android Fun Course
+
+Teaching a beginners course on Android development in the following topics
+
+
 ----------- Unit 1: Get started ----------- 
 
 This unit covers installing Android Studio, understanding project structure, building your first app, creating activities, testing your apps, and using the Android Support Library.
