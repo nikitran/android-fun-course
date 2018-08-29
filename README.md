@@ -12,7 +12,7 @@ Teaching a beginners course on Android development in the following topics
 | Hello Relative | |
 | [Scrolling Text 1](https://github.com/nikitran/android-fun-course/tree/master/unit-1/scrolling-text) | |
 | [Scrolling Text 2] (https://github.com/nikitran/android-fun-course/tree/master/unit-1/scrolling-text-2) | |
-| [Implicit Intent] https://github.com/nikitran/android-fun-course/tree/master/unit-1/implicit-intent & [Receiver] (https://github.com/nikitran/android-fun-course/tree/master/unit-1/implicit-intent-receiver) | |
+| [Implicit Intent] (https://github.com/nikitran/android-fun-course/tree/master/unit-1/implicit-intent) & [Receiver] (https://github.com/nikitran/android-fun-course/tree/master/unit-1/implicit-intent-receiver) | |
 
 ----------- Unit 2: User experience -----------
 
