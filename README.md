@@ -7,12 +7,12 @@ Teaching a beginners course on Android development in the following topics
 
 | Title        | Description       
 | ------------- |-------------|
-| Hello World | |
+| [Hello World](https://github.com/nikitran/android-fun-course/tree/master/unit-1/hello-world) | |
 | Hello Toast | |
 | Hello Relative | |
-| Scrolling Text 1 | |
-| Scrolling Text 2 | |
-| Implicit Intent & Receiver | |
+| [Scrolling Text 1](https://github.com/nikitran/android-fun-course/tree/master/unit-1/scrolling-text) | |
+| [Scrolling Text 2] (https://github.com/nikitran/android-fun-course/tree/master/unit-1/scrolling-text-2) | |
+| [Implicit Intent] https://github.com/nikitran/android-fun-course/tree/master/unit-1/implicit-intent & [Receiver] (https://github.com/nikitran/android-fun-course/tree/master/unit-1/implicit-intent-receiver) | |
 
 ----------- Unit 2: User experience -----------
 
