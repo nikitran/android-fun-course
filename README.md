@@ -5,9 +5,14 @@ Teaching a beginners course on Android development in the following topics
 
 ----------- Unit 1: Get started ----------- 
 
-This unit covers installing Android Studio, understanding project structure, building your first app, creating activities, testing your apps, and using the Android Support Library.
-
-First, you deploy a simple Hello World app. You go on to create an app with a simple activity, and then you create a multi-screen app that passes data between activities. You also learn how to use the Android Support Library to provide backward-compatibility with earlier versions of the Android system for your app.
+| Title        | Description       
+| ------------- |-------------|
+| Hello World | |
+| Hello Toast | |
+| Hello Relative | |
+| Scrolling Text 1 | |
+| Scrolling Text 2 | |
+| Implicit Intent & Receiver | |
 
 ----------- Unit 2: User experience -----------
 
