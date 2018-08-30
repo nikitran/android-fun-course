@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Keyboard Samples</string>
+    <string name="show">show</string>
+    <string name="hint_message">Enter a message</string>
+</resources>
